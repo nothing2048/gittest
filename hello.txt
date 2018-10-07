@@ -2,4 +2,3 @@ hello
 world
 branchA
 brach graph
-commitA
